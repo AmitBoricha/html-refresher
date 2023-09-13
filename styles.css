@@ -1,0 +1,11 @@
+/*HOME SECTION*/
+@media screen and (min-width:768px) {#home>div>div{flex-direction: row-reverse;}}
+.home-text>a{
+  text-decoration: none;
+  background: linear-gradient(235deg, #0048ff 50%, #d6008d 50%);
+  color: white;
+  padding: 5px 20px;
+  border-radius: 25px;
+  letter-spacing: 2px;
+  transition: 2s;
+}
