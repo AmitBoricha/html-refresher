@@ -9,3 +9,8 @@
   letter-spacing: 2px;
   transition: 2s;
 }
+
+
+.home-text>a:hover{
+    background: linear-gradient(45deg, #0048ff 50%, #d6008d 50%);
+  }
