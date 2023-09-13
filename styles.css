@@ -45,3 +45,9 @@ footer{
     background-color: rgba(45,57,80,0.8);
     z-index: -1;
   }
+
+/*SERVICES SECTION*/
+#services>div>div>div>ul,#why-us>div>div>div>ul{
+    list-style-type: none;
+    padding: 0;
+  }
